@@ -1,0 +1,30 @@
+p {
+    font-size: larger; /* Console warning: Invalid property value */
+  }
+  
+  h1 {
+    font-size: 23px;
+    color: purple;
+  }
+  
+  .container {
+    color: red;
+    width: 500px;
+    height: 500px;
+    /* background should be the same as #output */
+    background-color: #f333f3;
+  }
+  
+  #output {
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #000;
+    background-color: #f0f0f0;
+  }
+  .texted {
+    color: red;
+  }
